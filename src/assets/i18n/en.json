@@ -1,0 +1,84 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Resume.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I am a dedicated software engineer with <span class='underline'>2.5 years of experience</span> developing efficient and user-friendly software solutions. My expertise includes creating, designing, and maintaining systems, interfaces, and applications using <span class='underline'>Angular, React, HTML, CSS, JavaScript</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "I am a proficient software engineer with <span class='underline'>2.5 years of experience</span> in developing and optimizing web applications. My expertise includes <span class='underline'>front-end development</span> using <span class='underline'>HTML, CSS, Bootstrap, Angular, React.js, TypeScript,</span> and <span class='underline'>JavaScript.</span> I excel in <span class='underline'> performance optimization, UI revamps, </span> and <span class='underline'>API integration.</span> I am committed to delivering <span class='underline'>user-friendly applications</span>, ensuring <span class='underline'>code quality,</span> and meeting <span class='underline'> client requirements</span>",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Gemini",
+            "Title": "Software Engineer L2",
+            "Date": "April 2022 - Present",
+            "Description": [
+                "Improved code efficiency by 40% for over 20 customers, leading to enhanced performance and user satisfaction.",
+                "Transformed Figma designs into responsive web interfaces using HTML, CSS, Bootstrap, Angular, React.js, TypeScript, and JavaScript. Led UI revamps, boosting site engagement by 40% and mobile responsiveness by 25%.",
+                "Integrated RESTful APIs for seamless data communication, enhancing application functionality. Diagnosed and resolved complex bugs, improving overall software stability.",
+                "Delivered tailored web solutions by implementing new Customer Requirements (CRs) and translating client needs into technical specifications. Actively participated in code reviews to ensure adherence to best practices.",
+                "Conducted sessions on Angular, React, and front-end development, fostering team skill enhancement. Collaborated with senior developers to resolve technical challenges and ensure project success."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Agent Portal",
+            "Description": "Developed a comprehensive web application for a leading <span class='underline'>Indian insurance company,</span> featuring over <span class='underline'> 10 insurance products.</span>The portal streamlines <span class='underline'> policy issuance, renewals, endorsements, </span> and <span class='underline'>claims management.</span> Integrated <span class='underline'>CRM tools</span> for managing client interactions and leads. Led the project through <span class='underline'> design, development, testing,</span> and <span class='underline'>deployment</span> ensuring a <span class='underline'>responsive</span> and <span class='underline'> user-friendly</span> experience with key functionalities like <span class='underline'>API integration</span> and <span class='underline'>authentication.</span>",
+            "imgs": [
+                "assets/images/ap/agent-portal1.png",
+                "assets/images/ap/agent-portal2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Bootstrap",
+                "TypeScript"
+            ]
+        },
+        {
+            "Title": "GemDuty",
+            "Description": "Developed <span class='underline'>GemDuty,</span> an advanced <span class='underline'>incident management system</span> for effective digital incident management. The system includes <span class='underline'>real-time monitoring</span> and <span class='underline'>alerting features</span> for immediate <span class='underline'>issue detection</span> and <span class='underline'>triggering notification.</span> It orchestrates incident response processes, ensuring prompt resolution by the appropriate team members and facilitates collaboration and <span class='underline'>post-incident analysis</span> for continuous improvement.",
+            "imgs": [
+                "assets/images/gemduty/image1.png",
+                "assets/images/gemduty/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "Chart.JS",
+                "TypeScript"
+            ]
+        }
+            
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "",
+            "Description": "",
+            "ghLink": "",
+            "demoLink": "",
+            "Technologies": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
