@@ -46,11 +46,11 @@
             ]
         },
         {
-            "Title": "GemDuty",
-            "Description": "Developed <span class='underline'>GemDuty,</span> an advanced <span class='underline'>incident management system</span> for effective digital incident management. The system includes <span class='underline'>real-time monitoring</span> and <span class='underline'>alerting features</span> for immediate <span class='underline'>issue detection</span> and <span class='underline'>triggering notification.</span> It orchestrates incident response processes, ensuring prompt resolution by the appropriate team members and facilitates collaboration and <span class='underline'>post-incident analysis</span> for continuous improvement.",
+            "Title": "Incident Management System",
+            "Description": "Developed <span class='underline'>Incident Management System,</span> an advanced <span class='underline'>tool</span> for effective digital incident management. The system includes <span class='underline'>real-time monitoring</span> and <span class='underline'>alerting features</span> for immediate <span class='underline'>issue detection</span> and <span class='underline'>triggering notification.</span> It orchestrates incident response processes, ensuring prompt resolution by the appropriate team members and facilitates collaboration and <span class='underline'>post-incident analysis</span> for continuous improvement.",
             "imgs": [
-                "assets/images/gemduty/image1.png",
-                "assets/images/gemduty/image2.png"
+                "assets/images/ims/image1.png",
+                "assets/images/ims/image2.png"
             ],
             "Technologies": [
                 "Angular",
