@@ -1,84 +1,142 @@
 {
-    "Header.Item1": "About me",
-    "Header.Item2": "Experience",
-    "Header.Item3": "Projects",
-    "Header.Item4": "Contact",
-    "Header.cvBtn": "Resume",
-    "Header.cvName": "Resume.pdf",
-    "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I am a dedicated software engineer with <span class='underline'>2.5 years of experience</span> developing efficient and user-friendly software solutions. My expertise includes creating, designing, and maintaining systems, interfaces, and applications using <span class='underline'>Angular, React, HTML, CSS, JavaScript</span> applying good practices and development standards.",
-    "Banner.ActionBtn": "Get in touch",
-    "AboutMe.Title": "About me",
-    "AboutMe.Paragraphs": [
-        "I am a proficient software engineer with <span class='underline'>2.5 years of experience</span> in developing and optimizing web applications. My expertise includes <span class='underline'>front-end development</span> using <span class='underline'>HTML, CSS, Bootstrap, Angular, React.js, TypeScript,</span> and <span class='underline'>JavaScript.</span> I excel in <span class='underline'> performance optimization, UI revamps, </span> and <span class='underline'>API integration.</span> I am committed to delivering <span class='underline'>user-friendly applications</span>, ensuring <span class='underline'>code quality,</span> and meeting <span class='underline'> client requirements</span>",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
-    ],
-    "Experience.Title": "Experience",
-    "Experience.Jobs": [
-        {
-            "Tab": "Gemini",
-            "Title": "Software Engineer L2",
-            "Date": "April 2022 - Present",
-            "Description": [
-                "Improved code efficiency by 40% for over 20 customers, leading to enhanced performance and user satisfaction.",
-                "Transformed Figma designs into responsive web interfaces using HTML, CSS, Bootstrap, Angular, React.js, TypeScript, and JavaScript. Led UI revamps, boosting site engagement by 40% and mobile responsiveness by 25%.",
-                "Integrated RESTful APIs for seamless data communication, enhancing application functionality. Diagnosed and resolved complex bugs, improving overall software stability.",
-                "Delivered tailored web solutions by implementing new Customer Requirements (CRs) and translating client needs into technical specifications. Actively participated in code reviews to ensure adherence to best practices.",
-                "Conducted sessions on Angular, React, and front-end development, fostering team skill enhancement. Collaborated with senior developers to resolve technical challenges and ensure project success."
-            ]
-        }
-    ],
-    "FeatureProjects.Title": "Projects that I was a part of",
-    "FeatureProjects.Label": "Featured Project",
-    "FeatureProjects.Projects": [
-        {
-            "Title": "Agent Portal",
-            "Description": "Developed a comprehensive web application for a leading <span class='underline'>Indian insurance company,</span> featuring over <span class='underline'> 10 insurance products.</span>The portal streamlines <span class='underline'> policy issuance, renewals, endorsements, </span> and <span class='underline'>claims management.</span> Integrated <span class='underline'>CRM tools</span> for managing client interactions and leads. Led the project through <span class='underline'> design, development, testing,</span> and <span class='underline'>deployment</span> ensuring a <span class='underline'>responsive</span> and <span class='underline'> user-friendly</span> experience with key functionalities like <span class='underline'>API integration</span> and <span class='underline'>authentication.</span>",
-            "imgs": [
-                "assets/images/ap/agent-portal1.png",
-                "assets/images/ap/agent-portal2.png"
-            ],
-            "Technologies": [
-                "Angular",
-                "SASS",
-                "Bootstrap",
-                "TypeScript"
-            ]
-        },
-        {
-            "Title": "Incident Management System",
-            "Description": "Developed <span class='underline'>Incident Management System,</span> an advanced <span class='underline'>tool</span> for effective digital incident management. The system includes <span class='underline'>real-time monitoring</span> and <span class='underline'>alerting features</span> for immediate <span class='underline'>issue detection</span> and <span class='underline'>triggering notification.</span> It orchestrates incident response processes, ensuring prompt resolution by the appropriate team members and facilitates collaboration and <span class='underline'>post-incident analysis</span> for continuous improvement.",
-            "imgs": [
-                "assets/images/ims/image1.png",
-                "assets/images/ims/image2.png"
-            ],
-            "Technologies": [
-                "Angular",
-                "SASS",
-                "Angular Material",
-                "Chart.JS",
-                "TypeScript"
-            ]
-        }
-            
-    ],
-    "OtherProjects.Title": "More personal projects",
-    "OtherProjects.Projects": [
-        {
-            "Title": "",
-            "Description": "",
-            "ghLink": "",
-            "demoLink": "",
-            "Technologies": [
-                "",
-                "",
-                "",
-                ""
-            ]
-        }
-    ],
-    "Contact.Pretitle": "What’s Next",
-    "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
-    "Contact.Btn": "Say Hello"
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Resume.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I am a skilled software engineer with <span class='underline'>2.5 years of experience</span> in building high-performance, scalable web and mobile applications. My expertise spans <span class='underline'>Angular, React, React Native, HTML, CSS, JavaScript, TypeScript</span>, and other modern front-end technologies. I specialize in delivering well-structured code and seamless user experiences, while continuously pushing the boundaries of web development through modern practices.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "I thrive on creating seamless, interactive, and efficient web applications that balance user experience with technical excellence. With <span class='underline'>2.5 years of experience</span> in front-end engineering, I've mastered frameworks like <span class='underline'>Angular, React, and React Native</span> to build dynamic, responsive interfaces. Whether optimizing performance, revamping UI, or integrating APIs, I enjoy bringing ideas to life with clean, scalable code. I also take pride in collaborating with clients and teams to deliver tailored solutions that meet both technical and business goals.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Gemini",
+      "Title": "Software Engineer L2",
+      "Date": "April 2022 - Present",
+      "Description": [
+        "Achieved a 40% improvement in code efficiency for over 20 customers, significantly enhancing performance and user satisfaction.",
+        "Transformed Figma designs into responsive web interfaces using HTML, CSS, Bootstrap, Angular, React.js, TypeScript, and JavaScript, leading UI revamps that boosted site engagement by 40% and improved mobile responsiveness by 25%.",
+        "Integrated RESTful APIs for seamless data communication, enhancing overall application functionality and user experience. Diagnosed and resolved complex bugs to improve software stability.",
+        "Delivered customized web solutions by implementing new Customer Requirements (CRs) and translating client needs into precise technical specifications. Participated actively in code reviews to uphold best practices.",
+        "Conducted training sessions on Angular, React, and front-end development, promoting skill enhancement within the team. Collaborated with senior developers to tackle technical challenges, ensuring project success."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Projects that I was a part of",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Agent Portal",
+      "Description": "Developed a comprehensive web application for a leading <span class='underline'>Indian insurance company,</span> featuring over <span class='underline'> 10 insurance products.</span>The portal streamlines <span class='underline'> policy issuance, renewals, endorsements, </span> and <span class='underline'>claims management.</span> Integrated <span class='underline'>CRM tools</span> for managing client interactions and leads. Led the project through <span class='underline'> design, development, testing,</span> and <span class='underline'>deployment</span> ensuring a <span class='underline'>responsive</span> and <span class='underline'> user-friendly</span> experience with key functionalities like <span class='underline'>API integration</span> and <span class='underline'>authentication.</span>",
+      "imgs": [
+        "assets/images/ap/agent-portal1.png",
+        "assets/images/ap/agent-portal2.png"
+      ],
+      "Technologies": ["Angular", "SASS", "NG-Bootstrap", "TypeScript"]
+    },
+    {
+      "Title": "Incident Management System",
+      "Description": "Developed <span class='underline'>Incident Management System,</span> an advanced <span class='underline'>tool</span> for effective digital incident management. The system includes <span class='underline'>real-time monitoring</span> and <span class='underline'>alerting features</span> for immediate <span class='underline'>issue detection</span> and <span class='underline'>triggering notification.</span> It orchestrates incident response processes, ensuring prompt resolution by the appropriate team members and facilitates collaboration and <span class='underline'>post-incident analysis</span> for continuous improvement.",
+      "imgs": ["assets/images/ims/image1.png", "assets/images/ims/image2.png"],
+      "Technologies": [
+        "Angular",
+        "SASS",
+        "Angular Material",
+        "Chart.JS",
+        "TypeScript",
+        "NGRX"
+      ]
+    },
+    {
+      "Title": "Harshit's Superstore",
+      "Description": "Developed <span class='underline'>Harshit's Superstore,</span> a comprehensive <span class='underline'>e-commerce platform</span> designed to enhance online shopping experiences. The platform features <span class='underline'>dynamic product listing,</span> a <span class='underline'>product detail view,</span> and a <span class='underline'>real-time cart system,</span> allowing users to seamlessly add or remove items. Integrated <span class='underline'>search, sorting, and filtering features</span> to streamline navigation and improve user experience. Managed application state with <span class='underline'>Reducers</span> and <span class='underline'>Contexts,</span> ensuring efficient data handling and smooth performance.",
+      "imgs": [
+        "assets/images/hs/image1.png",
+        "assets/images/hs/image2.png",
+        "assets/images/hs/image3.png",
+        "assets/images/hs/image4.png"
+      ],
+      "demoLink": "https://haryagni.github.io/E-Commerce",
+      "ghLink": "https://github.com/HaryAgni/E-Commerce",
+      "Technologies": [
+        "React",
+        "React Router",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Reducers",
+        "Contexts"
+      ]
+    },
+    {
+      "Title": "Favourite Places",
+      "Description": "Developed <span class='underline'>Favourite Places,</span> a mobile app allowing users to save their favorite places with location tagging and images. Leveraged native device features such as <span class='underline'>location access</span> and <span class='underline'>camera functionality,</span> enhancing user interaction. Integrated smooth navigation between screens and ensured efficient data storage using <span class='underline'>SQLite.</span>",
+      "imgs": [
+        "assets/images/fp/image1.png",
+        "assets/images/fp/image2.png",
+        "assets/images/fp/image3.png"
+      ],
+      "ghLink": "https://github.com/HaryAgni/react-native-learnings/tree/main/favourite-places",
+      "Technologies": [
+        "React Native",
+        "Expo",
+        "React Navigation",
+        "SQLite",
+        "JavaScript",
+        "Native Device Features"
+      ]
+    }
+  ],
+  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "My Recipe Book",
+      "Description": "Created an app displaying various cuisines, each containing a list of recipes with details on ingredients. Users can add or remove recipes from their favorites, utilizing a combination of Native Stack Navigator and Drawer Navigator for seamless navigation.",
+      "ghLink": "https://github.com/HaryAgni/react-native-learnings/tree/main/meals",
+      "Technologies": [
+        "React Native",
+        "JavaScript",
+        "Redux",
+        "Expo",
+        "Native Stack Navigator",
+        "Drawer Navigator"
+      ]
+    },
+    {
+      "Title": "Translate App",
+      "Description": "Built a text translation app using React, enabling real-time language detection and translation through a third-party API with a clean, user-friendly interface.",
+      "ghLink": "https://github.com/HaryAgni/translate-app",
+      "demoLink": "https://haryagni.github.io/translate-app/",
+      "Technologies": ["React", "HTML", "CSS", "JavaScript"]
+    },
+
+    {
+      "Title": "Expense Tracker",
+      "Description": "Created an Expense Tracker app that enables users to add, remove, edit, and fetch expenses, providing insights into their spending. It utilizes an external API built with Firebase for real-time data synchronization.",
+      "ghLink": "https://github.com/HaryAgni/react-native-learnings/tree/main/expense-tracker",
+      "Technologies": [
+        "React Native",
+        "JavaScript",
+        "Expo",
+        "Redux",
+        "Firebase"
+      ]
+    },
+    {
+      "Title": "Guess My Number",
+      "Description": "Developed a simple game called 'Guess My Number' where players input a number, and the app attempts to guess it. Players indicate whether their number is lower or higher than the guessed number, and once the correct guess is made, a game-over screen displays the winning number.",
+      "ghLink": "https://github.com/HaryAgni/react-native-learnings/tree/main/guess-my-number",
+      "Technologies": ["React Native", "JavaScript", "Expo"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+  "Contact.Btn": "Say Hello"
 }
