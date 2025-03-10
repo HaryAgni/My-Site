@@ -6,13 +6,17 @@
   "Header.cvBtn": "Resume",
   "Header.cvName": "Resume.pdf",
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I am a skilled software engineer with <span class='underline'>2.5 years of experience</span> in building high-performance, scalable web and mobile applications. My expertise spans <span class='underline'>Angular, React, React Native, HTML, CSS, JavaScript, TypeScript</span>, and other modern front-end technologies. I specialize in delivering well-structured code and seamless user experiences, while continuously pushing the boundaries of web development through modern practices.",
+  "Banner.Description": "A results-driven software engineer with <span class='underline'>3 years of experience</span> crafting high-performance, scalable web and mobile applications. Skilled in <span class='underline'>Angular, React, React Native, TypeScript, JavaScript, HTML, and CSS</span>, I bring designs to life with clean, efficient code and a deep focus on seamless user experiences. Passionate about modern front-end technologies, I constantly explore new techniques to push the limits of what's possible on the web.",
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "I thrive on creating seamless, interactive, and efficient web applications that balance user experience with technical excellence. With <span class='underline'>2.5 years of experience</span> in front-end engineering, I've mastered frameworks like <span class='underline'>Angular, React, and React Native</span> to build dynamic, responsive interfaces. Whether optimizing performance, revamping UI, or integrating APIs, I enjoy bringing ideas to life with clean, scalable code. I also take pride in collaborating with clients and teams to deliver tailored solutions that meet both technical and business goals.",
+    "I love building web and mobile applications that are not just functional but also smooth, scalable, and visually engaging. With <span class='underline'>3 years of experience</span> in front-end development, I’ve worked extensively with <span class='underline'>React, React Native, and Angular</span> to create fast, responsive, and intuitive user interfaces. I enjoy writing clean, reusable code and optimizing performance to deliver seamless experiences across devices.",
+
+    "Beyond front-end development, I have hands-on experience with <span class='underline'>user authentication (SSO, JWT), payment gateway integration, multi-language support, and real-time data handling.</span>",
+
     "Some of the technologies that I have trained and worked on include (but are not limited to):"
   ],
+
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
@@ -20,17 +24,42 @@
       "Title": "Software Engineer L2",
       "Date": "April 2022 - Present",
       "Description": [
-        "Achieved a 40% improvement in code efficiency for over 20 customers, significantly enhancing performance and user satisfaction.",
-        "Transformed Figma designs into responsive web interfaces using HTML, CSS, Bootstrap, Angular, React.js, TypeScript, and JavaScript, leading UI revamps that boosted site engagement by 40% and improved mobile responsiveness by 25%.",
-        "Integrated RESTful APIs for seamless data communication, enhancing overall application functionality and user experience. Diagnosed and resolved complex bugs to improve software stability.",
-        "Delivered customized web solutions by implementing new Customer Requirements (CRs) and translating client needs into precise technical specifications. Participated actively in code reviews to uphold best practices.",
-        "Conducted training sessions on Angular, React, and front-end development, promoting skill enhancement within the team. Collaborated with senior developers to tackle technical challenges, ensuring project success."
+        "Developed and maintained scalable web applications, including an insurance portal, an incident management system, and a movie ticket booking platform.",
+        "Optimized code efficiency by 40% for over 20 customers, enhancing application performance and user experience.",
+        "Transformed Figma designs into fully responsive, user-friendly interfaces using Angular, React, and Tailwind CSS.",
+        "Integrated RESTful APIs for seamless data communication and implemented authentication (SSO, JWT) for secure access control.",
+        "Built an advanced incident management system from scratch, using Angular, NGRX for state management, and Chart.js for real-time data visualization.",
+        "Developed key features for a movie ticket booking platform, including user authentication, seat selection, multi-language support, and payment processing.",
+        "Conducted training sessions on Angular and React, helping team members upskill and boosting productivity."
       ]
     }
   ],
   "FeatureProjects.Title": "Projects that I was a part of",
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
+    {
+      "Title": "Reel Cinemas",
+      "Description": "Contributed to the redevelopment of a <span class='underline'>movie ticket booking platform</span>, transitioning the application from <span class='underline'>.NET to React</span> for improved scalability and modernized user experience. Developed a <span class='underline'>responsive and accessible front-end</span> with a focus on <span class='underline'>reusable components</span> and a <span class='underline'>modular architecture</span>. Implemented essential features like <span class='underline'>user authentication, seat selection, ticket booking, offers,</span> <span class='underline'>multi-language support</span> and <span class='underline'>food ordering options</span>, ensuring a seamless and engaging user journey. Integrated secure <span class='underline'>payment options</span> and optimized <span class='underline'>state management</span> with Redux for a smooth application flow.",
+      "imgs": [
+        "assets/images/rc/reel1.png",
+        "assets/images/rc/reel2.png",
+        "assets/images/rc/reel3.png",
+        "assets/images/rc/reel4.png",
+        "assets/images/rc/reel5.png",
+        "assets/images/rc/reel6.png",
+        "assets/images/rc/reel7.png"
+      ],
+      "Technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Material UI",
+        "Redux",
+        "SSO",
+        "Git",
+        "Azure"
+      ]
+    },
     {
       "Title": "Agent Portal",
       "Description": "Developed a comprehensive web application for a leading <span class='underline'>Indian insurance company,</span> featuring over <span class='underline'> 10 insurance products.</span>The portal streamlines <span class='underline'> policy issuance, renewals, endorsements, </span> and <span class='underline'>claims management.</span> Integrated <span class='underline'>CRM tools</span> for managing client interactions and leads. Led the project through <span class='underline'> design, development, testing,</span> and <span class='underline'>deployment</span> ensuring a <span class='underline'>responsive</span> and <span class='underline'> user-friendly</span> experience with key functionalities like <span class='underline'>API integration</span> and <span class='underline'>authentication.</span>",
@@ -42,15 +71,18 @@
     },
     {
       "Title": "Incident Management System",
-      "Description": "Developed <span class='underline'>Incident Management System,</span> an advanced <span class='underline'>tool</span> for effective digital incident management. The system includes <span class='underline'>real-time monitoring</span> and <span class='underline'>alerting features</span> for immediate <span class='underline'>issue detection</span> and <span class='underline'>triggering notification.</span> It orchestrates incident response processes, ensuring prompt resolution by the appropriate team members and facilitates collaboration and <span class='underline'>post-incident analysis</span> for continuous improvement.",
+      "Description": "Designed and developed a robust <span class='underline'>Incident Management System</span> to streamline real-time <span class='underline'>incident tracking, escalation, and resolution.</span> The system features <span class='underline'>on-call scheduling</span>, <span class='underline'>automated escalation policies</span>, and <span class='underline'>real-time monitoring</span> to ensure quick responses to critical events. Integrated <span class='underline'>Azure AD SSO</span> for secure authentication and implemented <span class='underline'>interactive dashboards</span> with Chart.js for data-driven insights. Built with a modular architecture for scalability and maintainability, enhancing operational efficiency.",
       "imgs": ["assets/images/ims/image1.png", "assets/images/ims/image2.png"],
       "Technologies": [
         "Angular",
-        "SASS",
-        "Angular Material",
-        "Chart.JS",
         "TypeScript",
-        "NGRX"
+        "NGRX",
+        "Chart.js",
+        "Angular Material",
+        "SASS",
+        "Azure AD SSO",
+        "Jenkins",
+        "Git"
       ]
     },
     {
